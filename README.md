@@ -5,7 +5,7 @@
 
 # Please see this video 
 to understand the project and to learn how to execute the software.
-https://youtu.be/7zHa5flGPjM
+https://youtu.be/RMNXE8FQb6c
 (This video does not yet contain the excution of R scripts)
 
 After downloading prj folder on a system with Hadoop installed ; just run these 2 commands since I've already created prj.jar :
